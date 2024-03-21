@@ -1,4 +1,40 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#world {
+  padding: 100px 0;
+}
+#world .col-md-12 {
+  margin: auto;
+}
+#world .col-md-12 .box .textbox {
+  width: 300px;
+  height: 300px;
+  background: rgb(125, 100, 156);
+  border: 1px solid #5f1856;
+  border-radius: 20px;
+}
+#world .col-md-12 .box .textbox h1 {
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-weight: 700;
+  color: #d1ad0b;
+}
+#world .col-md-12 .box .textbox input {
+  padding: 15px 25px;
+  border-radius: 20px;
+}
+#world .col-md-12 .box .textbox .btn {
+  background: white;
+  margin-top: 25px;
+  border-radius: 7px;
+}
+#world .col-md-12 .box h2 {
+  text-align: center;
+  margin: 15px 40px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  max-width: 150px;
 }/*# sourceMappingURL=style.css.map */
